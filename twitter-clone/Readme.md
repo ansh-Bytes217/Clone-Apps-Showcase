@@ -45,7 +45,7 @@ Here are the steps to run the project locally.
 
 **Clone the repository**
 
-git clone https://github.com/ccrsxx/twitter-clone.git
+git clone https://github.com/ansh-Bytes217/Clone-Apps-Showcase/twitter-clone.git
 Install dependencies
 
 npm i
