@@ -79,6 +79,9 @@ Deploy Firestore rules, Firestore indexes, and Cloud Storage rules
 firebase deploy --except functions
 Run the project
 
+here is my deployed link:
+https://twitter-clone-oftnone9d-ccrsxx.vercel.app/
+
 npm run dev
 Using Firebase Local Emulator:
 
